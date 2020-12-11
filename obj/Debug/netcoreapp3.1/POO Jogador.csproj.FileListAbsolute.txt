@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\POO Jogador\bin\Debug\netcoreapp3.1\POO Jogador.exe
+C:\Users\dev\Desktop\POO Jogador\bin\Debug\netcoreapp3.1\POO Jogador.deps.json
+C:\Users\dev\Desktop\POO Jogador\bin\Debug\netcoreapp3.1\POO Jogador.runtimeconfig.json
+C:\Users\dev\Desktop\POO Jogador\bin\Debug\netcoreapp3.1\POO Jogador.runtimeconfig.dev.json
+C:\Users\dev\Desktop\POO Jogador\bin\Debug\netcoreapp3.1\POO Jogador.dll
+C:\Users\dev\Desktop\POO Jogador\bin\Debug\netcoreapp3.1\POO Jogador.pdb
+C:\Users\dev\Desktop\POO Jogador\obj\Debug\netcoreapp3.1\POO Jogador.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\POO Jogador\obj\Debug\netcoreapp3.1\POO Jogador.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\POO Jogador\obj\Debug\netcoreapp3.1\POO Jogador.AssemblyInfo.cs
+C:\Users\dev\Desktop\POO Jogador\obj\Debug\netcoreapp3.1\POO Jogador.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\POO Jogador\obj\Debug\netcoreapp3.1\POO Jogador.dll
+C:\Users\dev\Desktop\POO Jogador\obj\Debug\netcoreapp3.1\POO Jogador.pdb
+C:\Users\dev\Desktop\POO Jogador\obj\Debug\netcoreapp3.1\POO Jogador.genruntimeconfig.cache
